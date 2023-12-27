@@ -1,0 +1,1513 @@
+{
+    "edges": [
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "951d1f61-e428-46d6-8d15-d2645f07fc9d",
+            "target": "742fb58e-e052-493c-8db8-0842cbc30a80",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "27608052-9742-4383-9838-1e5681d26022",
+            "target": "951d1f61-e428-46d6-8d15-d2645f07fc9d",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "fdd29d5a-3999-4e31-a302-adaa81072a39",
+            "target": "27608052-9742-4383-9838-1e5681d26022",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "46b513b2-c102-4f4e-bbb4-b2d993a39b64",
+            "target": "fdd29d5a-3999-4e31-a302-adaa81072a39",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "3264d2d6-f127-4a13-87e8-413acc53ec9c",
+            "target": "fdd29d5a-3999-4e31-a302-adaa81072a39",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "741b0069-ea3a-4ecb-9077-8b48431a58f6",
+            "target": "742fb58e-e052-493c-8db8-0842cbc30a80",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "382204f7-bd4b-43fd-9338-cf4cae6b7d4a",
+            "target": "741b0069-ea3a-4ecb-9077-8b48431a58f6",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "38e881ce-af03-4a04-a98f-65224f38d16e",
+            "target": "742fb58e-e052-493c-8db8-0842cbc30a80",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "cc1c66da-892f-4a1d-9987-cf6766f061b7",
+            "target": "38e881ce-af03-4a04-a98f-65224f38d16e",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "14313d49-a452-482a-9b09-118adbbc627c",
+            "target": "742fb58e-e052-493c-8db8-0842cbc30a80",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "d9e10fd1-9bdf-4c10-b3fe-8748fc37c24c",
+            "target": "14313d49-a452-482a-9b09-118adbbc627c",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "8a752ed9-6135-4e19-9a6d-9624006cda47",
+            "target": "d9e10fd1-9bdf-4c10-b3fe-8748fc37c24c",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "887a976e-30f1-445d-9170-103a13274ccf",
+            "target": "742fb58e-e052-493c-8db8-0842cbc30a80",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "41213f51-6df2-44e9-94fd-9ca645038171",
+            "target": "887a976e-30f1-445d-9170-103a13274ccf",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "5296884f-30ac-454e-b021-d09df1c65482",
+            "target": "742fb58e-e052-493c-8db8-0842cbc30a80",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "4b64bf92-9295-4579-a4ca-80aa28f430f6",
+            "target": "5296884f-30ac-454e-b021-d09df1c65482",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "25bc4429-6bda-4cad-9130-aa323dedd5b0",
+            "target": "4b64bf92-9295-4579-a4ca-80aa28f430f6",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "a08cbd64-e44f-4b42-af5b-8f23420273a8",
+            "target": "25bc4429-6bda-4cad-9130-aa323dedd5b0",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "63d40b2a-d5e4-40bb-84f2-8eddd325cb23",
+            "target": "4b64bf92-9295-4579-a4ca-80aa28f430f6",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "84433334-e079-4065-819f-4853a6716a0d",
+            "target": "4b64bf92-9295-4579-a4ca-80aa28f430f6",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "a963948a-ddf0-4ff2-b50f-45d8b61a9d4c",
+            "target": "84433334-e079-4065-819f-4853a6716a0d",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "331861b7-bcd5-43e8-b1a0-bb29c6ffaf8e",
+            "target": "4b64bf92-9295-4579-a4ca-80aa28f430f6",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "24599fe9-a9d1-4d00-9f3b-de065d2735ab",
+            "target": "331861b7-bcd5-43e8-b1a0-bb29c6ffaf8e",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "5ca3f2e2-38a4-49b7-831d-b1da362b02d7",
+            "target": "24599fe9-a9d1-4d00-9f3b-de065d2735ab",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "cca3d589-3154-4e29-ac79-4a4b1d555f85",
+            "target": "24599fe9-a9d1-4d00-9f3b-de065d2735ab",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "b6a9d4cd-9a5e-4935-a90a-ddb893749a1d",
+            "target": "24599fe9-a9d1-4d00-9f3b-de065d2735ab",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "520a51d1-a720-4811-96e7-0e9a4703c229",
+            "target": "b6a9d4cd-9a5e-4935-a90a-ddb893749a1d",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "bfb9c1b6-7ac9-4a07-8729-d1da662ff869",
+            "target": "520a51d1-a720-4811-96e7-0e9a4703c229",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "639918c6-e45b-42d3-ace6-5bd0a6936ad6",
+            "target": "bfb9c1b6-7ac9-4a07-8729-d1da662ff869",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "750d8b77-1c62-434a-a2b1-4fab79c8679e",
+            "target": "520a51d1-a720-4811-96e7-0e9a4703c229",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "5750d8e5-4dc2-495a-961a-6a90c4fd1894",
+            "target": "750d8b77-1c62-434a-a2b1-4fab79c8679e",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "cabad2f3-9654-4c28-8c80-bf5ebd04c429",
+            "target": "5750d8e5-4dc2-495a-961a-6a90c4fd1894",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "57a56f9e-71c7-4221-b612-5590f6dd0735",
+            "target": "cabad2f3-9654-4c28-8c80-bf5ebd04c429",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "2e630906-4550-4365-8e11-09b31f78aafd",
+            "target": "57a56f9e-71c7-4221-b612-5590f6dd0735",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "5ce79217-9af6-4d8b-bdf8-f6853644b364",
+            "target": "57a56f9e-71c7-4221-b612-5590f6dd0735",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "5d39d795-7313-413e-974b-3bb644f2ac35",
+            "target": "cabad2f3-9654-4c28-8c80-bf5ebd04c429",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "f185934b-aedc-40ad-b00c-160cd606ee68",
+            "target": "5d39d795-7313-413e-974b-3bb644f2ac35",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "8365a888-b223-480e-8ae8-fc0eef592ef5",
+            "target": "5d39d795-7313-413e-974b-3bb644f2ac35",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "760b341c-8125-4b3b-86a5-364ba4aca73a",
+            "target": "5d39d795-7313-413e-974b-3bb644f2ac35",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "de8d9d93-e396-437d-bdd7-3cc9f60ecd9c",
+            "target": "b6a9d4cd-9a5e-4935-a90a-ddb893749a1d",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "6901dfab-89ba-4ed7-8d6f-1003fc9b087a",
+            "target": "24599fe9-a9d1-4d00-9f3b-de065d2735ab",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "7bbd233e-582f-4d0e-b522-e8abbe5befdd",
+            "target": "6901dfab-89ba-4ed7-8d6f-1003fc9b087a",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "72f39e8f-1094-4cd9-8433-4f5ed37a59de",
+            "target": "6901dfab-89ba-4ed7-8d6f-1003fc9b087a",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "2b7e2a78-1b52-4f33-b59a-3e4f7128627c",
+            "target": "24599fe9-a9d1-4d00-9f3b-de065d2735ab",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "be4e393c-57fa-44a6-a27c-dcc8fec9f849",
+            "target": "2b7e2a78-1b52-4f33-b59a-3e4f7128627c",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "c4ad41fd-4e12-4cf6-9b3a-844cacb267b5",
+            "target": "be4e393c-57fa-44a6-a27c-dcc8fec9f849",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "a6adb5a7-2b8a-4232-823c-ef1f323e90b8",
+            "target": "2b7e2a78-1b52-4f33-b59a-3e4f7128627c",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "7a1a8da4-7748-45fe-ab5a-3ca77ed9c7ed",
+            "target": "a6adb5a7-2b8a-4232-823c-ef1f323e90b8",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "929f48e6-2825-4aea-9598-8657ba351693",
+            "target": "7a1a8da4-7748-45fe-ab5a-3ca77ed9c7ed",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "1b16e515-4456-4705-a8b3-98d40b41b399",
+            "target": "929f48e6-2825-4aea-9598-8657ba351693",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "5e0a8e3f-a007-4973-810b-c6f920be9f5e",
+            "target": "1b16e515-4456-4705-a8b3-98d40b41b399",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "e3fedb17-6151-4753-bbf7-7e4ded9fdc1e",
+            "target": "1b16e515-4456-4705-a8b3-98d40b41b399",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "613b9cab-c46a-4bbb-ac46-0a043332241e",
+            "target": "929f48e6-2825-4aea-9598-8657ba351693",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "c2809e48-31a5-4e03-b91c-08f476ac0d21",
+            "target": "613b9cab-c46a-4bbb-ac46-0a043332241e",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "4dc78c76-50cb-4290-b02f-99ccd8b28ce2",
+            "target": "613b9cab-c46a-4bbb-ac46-0a043332241e",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "baf26c53-3da1-4ebe-8122-842516cc7a8c",
+            "target": "613b9cab-c46a-4bbb-ac46-0a043332241e",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "df609f00-08a9-4d8a-9200-cc60f5637221",
+            "target": "24599fe9-a9d1-4d00-9f3b-de065d2735ab",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "750426a4-f481-45a1-8544-2ca3cba51565",
+            "target": "df609f00-08a9-4d8a-9200-cc60f5637221",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "69e9f7a5-8cac-455c-9579-f91f3605a830",
+            "target": "750426a4-f481-45a1-8544-2ca3cba51565",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "bd79636a-aa79-450a-a9c3-5672bd922881",
+            "target": "69e9f7a5-8cac-455c-9579-f91f3605a830",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "7a39cfab-9eb4-4e21-85b1-9acb7dc95129",
+            "target": "750426a4-f481-45a1-8544-2ca3cba51565",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "8e649bfb-4a92-48c0-bb96-fc5bdff54d95",
+            "target": "7a39cfab-9eb4-4e21-85b1-9acb7dc95129",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "33d1892b-0939-4634-a13a-0b606e6ae365",
+            "target": "8e649bfb-4a92-48c0-bb96-fc5bdff54d95",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "902fbd53-9faf-40e8-a858-b9e620a9e530",
+            "target": "33d1892b-0939-4634-a13a-0b606e6ae365",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "ba341773-b5f4-4ed6-ac03-2506272b3ced",
+            "target": "902fbd53-9faf-40e8-a858-b9e620a9e530",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "8466f401-1792-4751-9f38-79d98d0c7f1c",
+            "target": "902fbd53-9faf-40e8-a858-b9e620a9e530",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "b8183d0d-47ee-4881-9621-38b9d06caf01",
+            "target": "33d1892b-0939-4634-a13a-0b606e6ae365",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "70c7a65a-ffb2-4e99-9a71-2a47842f249e",
+            "target": "b8183d0d-47ee-4881-9621-38b9d06caf01",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "23ae2540-92e6-4bd6-9156-d815215f4868",
+            "target": "b8183d0d-47ee-4881-9621-38b9d06caf01",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "c1a853b1-3308-4ab1-b80d-624b058462c9",
+            "target": "b8183d0d-47ee-4881-9621-38b9d06caf01",
+            "type": "child_of"
+        },
+        {
+            "attributes": {},
+            "directed": true,
+            "source": "6807ef87-4ca7-43c0-82be-5d6313f83734",
+            "target": "24599fe9-a9d1-4d00-9f3b-de065d2735ab",
+            "type": "child_of"
+        }
+    ],
+    "meta_path_definitions": [],
+    "nodes": [
+        {
+            "attributes": {
+                "id": "946bc836-6aee-4a1a-868f-e59401457f49",
+                "localId": "",
+                "name": "Tab Container",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "742fb58e-e052-493c-8db8-0842cbc30a80",
+            "position": {
+                "x": -16.197148870506595,
+                "y": -16.197148870506595
+            },
+            "type": "TAB_CONTAINER"
+        },
+        {
+            "attributes": {
+                "id": "6adef451-4c03-46e3-b04f-7a92dca401c4",
+                "localId": "",
+                "name": "Tab",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "951d1f61-e428-46d6-8d15-d2645f07fc9d",
+            "position": {
+                "x": -19.207566515017625,
+                "y": -19.207566515017625
+            },
+            "type": "TAB"
+        },
+        {
+            "attributes": {
+                "id": "a2d64876-f14c-48c7-bea9-77268665d727",
+                "localId": "1234",
+                "name": "Analytical Table",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "27608052-9742-4383-9838-1e5681d26022",
+            "position": {
+                "x": -21.872628152457377,
+                "y": -21.872628152457377
+            },
+            "type": "ANALYTICAL_TABLE"
+        },
+        {
+            "attributes": {
+                "id": "4176bfe9-b3d9-425a-998a-c43d02bcdb21",
+                "localId": "",
+                "name": "Custom Table Cells",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "fdd29d5a-3999-4e31-a302-adaa81072a39",
+            "position": {
+                "x": -24.20653816245308,
+                "y": -24.20653816245308
+            },
+            "type": "CUSTOM_TABLE_CELLS"
+        },
+        {
+            "attributes": {
+                "id": "2fe27486-a453-4dff-a3c1-8a77219aea8a",
+                "localId": "Text-1",
+                "name": "Text",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "46b513b2-c102-4f4e-bbb4-b2d993a39b64",
+            "position": {
+                "x": -25.258081633074806,
+                "y": -25.258081633074806
+            },
+            "type": "TEXT"
+        },
+        {
+            "attributes": {
+                "id": "75f81162-8e80-4a8b-bd4d-8ac289d79342",
+                "localId": "Link-1",
+                "name": "Link",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "3264d2d6-f127-4a13-87e8-413acc53ec9c",
+            "position": {
+                "x": -25.984787834834226,
+                "y": -25.984787834834226
+            },
+            "type": "LINK"
+        },
+        {
+            "attributes": {
+                "id": "c7e2f0d6-4046-454b-a758-ec3517684694",
+                "localId": "Tab-1",
+                "name": "Tab",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "741b0069-ea3a-4ecb-9077-8b48431a58f6",
+            "position": {
+                "x": -18.481237447314268,
+                "y": -18.481237447314268
+            },
+            "type": "TAB"
+        },
+        {
+            "attributes": {
+                "id": "8c797750-77f0-4d87-bbfc-38f1b4defd68",
+                "localId": "Analytical-Table-1",
+                "name": "Analytical Table",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "382204f7-bd4b-43fd-9338-cf4cae6b7d4a",
+            "position": {
+                "x": -20.346395525544175,
+                "y": -20.346395525544175
+            },
+            "type": "ANALYTICAL_TABLE"
+        },
+        {
+            "attributes": {
+                "id": "f7f5d817-1aeb-4614-a6d2-25ef80ea40d6",
+                "localId": "Tab-2",
+                "name": "Tab to test length calc",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "38e881ce-af03-4a04-a98f-65224f38d16e",
+            "position": {
+                "x": -17.031158644125448,
+                "y": -17.031158644125448
+            },
+            "type": "TAB"
+        },
+        {
+            "attributes": {
+                "id": "c33a35b2-b44a-4ef9-947d-ba2c91146b38",
+                "localId": "Analytical-Table-4",
+                "name": "Analytical Table",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "cc1c66da-892f-4a1d-9987-cf6766f061b7",
+            "position": {
+                "x": -17.778162487529755,
+                "y": -17.778162487529755
+            },
+            "type": "ANALYTICAL_TABLE"
+        },
+        {
+            "attributes": {
+                "id": "dbd40f95-25cb-430f-9009-cbf87eff17cf",
+                "localId": "Tab-3",
+                "name": "Tab",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "14313d49-a452-482a-9b09-118adbbc627c",
+            "position": {
+                "x": -15.71710150112176,
+                "y": -15.71710150112176
+            },
+            "type": "TAB"
+        },
+        {
+            "attributes": {
+                "id": "110f7fbe-40cc-4737-9b78-f6ab78e6f29b",
+                "localId": "Card-1",
+                "name": "Card",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "d9e10fd1-9bdf-4c10-b3fe-8748fc37c24c",
+            "position": {
+                "x": -15.622283630657028,
+                "y": -15.622283630657028
+            },
+            "type": "CARD"
+        },
+        {
+            "attributes": {
+                "id": "ca8fb606-81db-4a2b-b240-8b6f56443959",
+                "localId": "Analytical-Table-2",
+                "name": "Analytical Table",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "8a752ed9-6135-4e19-9a6d-9624006cda47",
+            "position": {
+                "x": -15.70475638035953,
+                "y": -15.70475638035953
+            },
+            "type": "ANALYTICAL_TABLE"
+        },
+        {
+            "attributes": {
+                "id": "ccaf2bc5-9688-4882-90b6-2930c66455ab",
+                "localId": "CMS-Entity",
+                "name": "Tab",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "887a976e-30f1-445d-9170-103a13274ccf",
+            "position": {
+                "x": -17.94709315412423,
+                "y": -17.94709315412423
+            },
+            "type": "TAB"
+        },
+        {
+            "attributes": {
+                "id": "353a97d4-41dc-4a09-9f4e-331999218e0e",
+                "localId": "Analytical-Table-3",
+                "name": "Analytical Table",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "41213f51-6df2-44e9-94fd-9ca645038171",
+            "position": {
+                "x": -19.50089314330515,
+                "y": -19.50089314330515
+            },
+            "type": "ANALYTICAL_TABLE"
+        },
+        {
+            "attributes": {
+                "id": "74b1b1ef-8751-47f1-a874-b7f2683fd165",
+                "localId": "Tab-5",
+                "name": "Tab",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "5296884f-30ac-454e-b021-d09df1c65482",
+            "position": {
+                "x": -12.336639456446743,
+                "y": -12.336639456446743
+            },
+            "type": "TAB"
+        },
+        {
+            "attributes": {
+                "id": "a059b8c8-0519-4290-af3b-023f2e097959",
+                "localId": "aCMS-Transactional-Table-1",
+                "name": "aCMS Transactional Table",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "4b64bf92-9295-4579-a4ca-80aa28f430f6",
+            "position": {
+                "x": -8.40395922588094,
+                "y": -8.40395922588094
+            },
+            "type": "TRANSACTIONAL_TABLE"
+        },
+        {
+            "attributes": {
+                "id": "990c5806-1763-4f6e-b597-74df2f286c8c",
+                "localId": "",
+                "name": "Custom Table Cells",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "25bc4429-6bda-4cad-9130-aa323dedd5b0",
+            "position": {
+                "x": -8.012062887938626,
+                "y": -8.012062887938626
+            },
+            "type": "CUSTOM_TABLE_CELLS"
+        },
+        {
+            "attributes": {
+                "id": "9b0b0c78-4ae5-49d1-9635-57e6edc117b1",
+                "localId": "Link-2",
+                "name": "Link",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "a08cbd64-e44f-4b42-af5b-8f23420273a8",
+            "position": {
+                "x": -7.697305311853406,
+                "y": -7.697305311853406
+            },
+            "type": "LINK"
+        },
+        {
+            "attributes": {
+                "id": "8d206137-b5e9-495e-86b6-a6b3a2c0a061",
+                "localId": "",
+                "name": "Additional Filterbar Actions",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "63d40b2a-d5e4-40bb-84f2-8eddd325cb23",
+            "position": {
+                "x": -9.030215505077841,
+                "y": -9.030215505077841
+            },
+            "type": "ADDITIONAL_FILTERBAR_ACTIONS"
+        },
+        {
+            "attributes": {
+                "id": "b8a2b08c-69be-4715-8c82-81fee0b0103a",
+                "localId": "",
+                "name": "Action Menu",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "84433334-e079-4065-819f-4853a6716a0d",
+            "position": {
+                "x": -10.341328763166505,
+                "y": -10.341328763166505
+            },
+            "type": "ACTION_MENU"
+        },
+        {
+            "attributes": {
+                "id": "16fb6a62-1f83-4916-bc1c-1fa60b7a191e",
+                "localId": "aCMS-Edit-Button-1",
+                "name": "aCMS Edit Button",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "a963948a-ddf0-4ff2-b50f-45d8b61a9d4c",
+            "position": {
+                "x": -11.829478777842024,
+                "y": -11.829478777842024
+            },
+            "type": "CMS_ACTION_MENU_EDIT_BUTTON"
+        },
+        {
+            "attributes": {
+                "id": "5596235d-2c7d-414e-833d-f6f7b5e67346",
+                "localId": "config-slot_7efa4b3f-187f-458f-9381-e1ed46e9ada7",
+                "name": "Mass-Edit Form Config",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "331861b7-bcd5-43e8-b1a0-bb29c6ffaf8e",
+            "position": {
+                "x": -4.122298338065227,
+                "y": -4.122298338065227
+            },
+            "type": "MASS_EDIT_FORM_CONFIG_SLOT"
+        },
+        {
+            "attributes": {
+                "id": "2f760ba3-1108-4f3e-b072-a2390c419e2d",
+                "localId": "config-slot_form_e17c05d1-2e1a-4e7f-9366-49bdedd22049e17c05d1-2e1a-4e7f-9366-49bdedd22049",
+                "name": "Default Form Config",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "24599fe9-a9d1-4d00-9f3b-de065d2735ab",
+            "position": {
+                "x": 0.2086994408207813,
+                "y": 0.2086994408207813
+            },
+            "type": "CMS_FORM_NEXT"
+        },
+        {
+            "attributes": {
+                "id": "78636467-06d8-4bd2-b6b2-cb2ce587ae1c",
+                "localId": "config-slot_subtitlebe456291-60ae-3075-8cdf-e91fa2086f7a",
+                "name": "subtitle",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "5ca3f2e2-38a4-49b7-831d-b1da362b02d7",
+            "position": {
+                "x": 0.9255687964214068,
+                "y": 0.9255687964214068
+            },
+            "type": "CMS_SIMPLE_TEXT_INPUT"
+        },
+        {
+            "attributes": {
+                "id": "7dcea319-3635-41dd-9835-5d17802e8151",
+                "localId": "config-slot_title8896a20a-fa54-3a08-bd7f-515fda98862d",
+                "name": "Title",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "cca3d589-3154-4e29-ac79-4a4b1d555f85",
+            "position": {
+                "x": 0.3215911546963579,
+                "y": 0.3215911546963579
+            },
+            "type": "CMS_SIMPLE_TEXT_INPUT"
+        },
+        {
+            "attributes": {
+                "id": "aea9d677-53e6-4a4e-962e-30b9435fcdf8",
+                "localId": "config-slot_blocktitleaea9d677-53e6-4a4e-962e-30b9435fcdf8",
+                "name": "similarBooks",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "b6a9d4cd-9a5e-4935-a90a-ddb893749a1d",
+            "position": {
+                "x": 4.3956474385353586,
+                "y": 4.3956474385353586
+            },
+            "type": "CMS_BLOCK"
+        },
+        {
+            "attributes": {
+                "id": "629c099b-333d-4121-8823-6d1a20d80587",
+                "localId": "config-slot_blocktitle-author8429b654-c5bd-3141-9888-0fc3f5efb14c",
+                "name": "author",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "520a51d1-a720-4811-96e7-0e9a4703c229",
+            "position": {
+                "x": 8.32345222032292,
+                "y": 8.32345222032292
+            },
+            "type": "CMS_REFERENCE_DIALOG_INPUT"
+        },
+        {
+            "attributes": {
+                "id": "3b9880bf-68a0-445b-8271-4b24e3851083",
+                "localId": "config-slot_blocktitle-author_value-help-slotba9627fe-df66-396c-9ca5-36d88569132e",
+                "name": "Value-Help",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "bfb9c1b6-7ac9-4a07-8729-d1da662ff869",
+            "position": {
+                "x": 9.350393118947608,
+                "y": 9.350393118947608
+            },
+            "type": "CMS_REFERENCE_VALUE_HELP"
+        },
+        {
+            "attributes": {
+                "id": "eb837a25-fecb-45c2-99b2-2390a20c84a1",
+                "localId": "config-slot_blocktitle-author_value-help-table3705eb37-96a9-3100-830b-1c42277fe9c8",
+                "name": "aCMS Reference Value Help Table",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "639918c6-e45b-42d3-ace6-5bd0a6936ad6",
+            "position": {
+                "x": 10.014728534220517,
+                "y": 10.014728534220517
+            },
+            "type": "CMS_REFERENCE_VALUE_HELP_TABLE"
+        },
+        {
+            "attributes": {
+                "id": "2d142b03-1544-43a0-896b-58a7e57e59aa",
+                "localId": "config-slot_blocktitle-author_reference-tile-template-slot45dcdb73-4d68-36b4-b608-831760b39459",
+                "name": "Selected Entry Template",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "750d8b77-1c62-434a-a2b1-4fab79c8679e",
+            "position": {
+                "x": 12.002898800515691,
+                "y": 12.002898800515691
+            },
+            "type": "CMS_REFERENCE_TILE_TEMPLATE_SLOT"
+        },
+        {
+            "attributes": {
+                "id": "e2ee89ca-6ed9-4e7c-b1c3-94f9d380e0c6",
+                "localId": "config-slot_blocktitle-author_reference-tile-templateb00f12d5-b2ac-3e1e-85e2-b00190971150",
+                "name": "aCMS Entry Selection Card",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "5750d8e5-4dc2-495a-961a-6a90c4fd1894",
+            "position": {
+                "x": 15.442018562608718,
+                "y": 15.442018562608718
+            },
+            "type": "CMS_REFERENCE_TILE_TEMPLATE"
+        },
+        {
+            "attributes": {
+                "id": "3a3927c0-a203-4a41-8217-7748b76ed477",
+                "localId": "config-slot_blocktitle-author_area-grid03a4b4d6-4049-301c-80cb-4ab3dadb17d7",
+                "name": "Area Grid",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "cabad2f3-9654-4c28-8c80-bf5ebd04c429",
+            "position": {
+                "x": 18.744465315602966,
+                "y": 18.744465315602966
+            },
+            "type": "AREA_GRID"
+        },
+        {
+            "attributes": {
+                "id": "90160e2b-2faf-4e45-804b-c3791ba86c73",
+                "localId": "config-slot_blocktitle-author_template-headerf57e359b-ec2e-3c94-bfd2-5300437221b9",
+                "name": "Area Grid",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "57a56f9e-71c7-4221-b612-5590f6dd0735",
+            "position": {
+                "x": 21.37060757984571,
+                "y": 21.37060757984571
+            },
+            "type": "AREA_GRID"
+        },
+        {
+            "attributes": {
+                "id": "3097a5b9-74d9-4445-9424-2d490d1b9a95",
+                "localId": "config-slot_blocktitle-author_entity-name0b4d1e44-3b01-35dd-b6eb-26217837d064",
+                "name": "Entity Name",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "2e630906-4550-4365-8e11-09b31f78aafd",
+            "position": {
+                "x": 22.989461861743397,
+                "y": 22.989461861743397
+            },
+            "type": "TEXT"
+        },
+        {
+            "attributes": {
+                "id": "a91fbb6d-b768-4fb4-92ca-272132fe5991",
+                "localId": "config-slot_blocktitle-author_entity-titledb8182d9-6160-320c-85df-7ebcaaa88d84",
+                "name": "Title",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "5ce79217-9af6-4d8b-bdf8-f6853644b364",
+            "position": {
+                "x": 23.062193009839962,
+                "y": 23.062193009839962
+            },
+            "type": "TEXT"
+        },
+        {
+            "attributes": {
+                "id": "35fc9e10-2140-4a16-ab66-d64fc9c8fce3",
+                "localId": "config-slot_blocktitle-author_template-buttons40a23e5c-63a6-3bc6-a740-6b91a2310dbd",
+                "name": "Area Grid",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "5d39d795-7313-413e-974b-3bb644f2ac35",
+            "position": {
+                "x": 20.536348094942632,
+                "y": 20.536348094942632
+            },
+            "type": "AREA_GRID"
+        },
+        {
+            "attributes": {
+                "id": "c5b6173c-9702-4345-923f-979dc5044deb",
+                "localId": "config-slot_blocktitle-author_error-icon5d4ac0fd-de33-37ea-b2eb-d8f755308eaf",
+                "name": "Error Icon",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "f185934b-aedc-40ad-b00c-160cd606ee68",
+            "position": {
+                "x": 22.211635843638273,
+                "y": 22.211635843638273
+            },
+            "type": "CMS_REFERENCE_TILE_ERROR_ICON"
+        },
+        {
+            "attributes": {
+                "id": "470953c5-6c19-4451-9897-12f7da49de05",
+                "localId": "config-slot_blocktitle-author_button-openee23b7aa-46b8-3cee-8886-ff327f321669",
+                "name": "Open Button",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "8365a888-b223-480e-8ae8-fc0eef592ef5",
+            "position": {
+                "x": 21.65295324368799,
+                "y": 21.65295324368799
+            },
+            "type": "CMS_REFERENCE_TILE_OPEN_BUTTON"
+        },
+        {
+            "attributes": {
+                "id": "10aa8669-141e-4857-af88-6d353da3d48c",
+                "localId": "config-slot_blocktitle-author_buttons-delete3add9976-9f0e-3dc7-b7c4-dc4f530f3786",
+                "name": "Delete Button",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "760b341c-8125-4b3b-86a5-364ba4aca73a",
+            "position": {
+                "x": 20.54771682891043,
+                "y": 20.54771682891043
+            },
+            "type": "CMS_REFERENCE_TILE_DELETE_BUTTON"
+        },
+        {
+            "attributes": {
+                "id": "66405f5a-a215-4ec2-a597-901defe9ddb0",
+                "localId": "config-slot_blocktitle-title3aa1eeaa-952a-3985-81ab-c829c92576e7",
+                "name": "title",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "de8d9d93-e396-437d-bdd7-3cc9f60ecd9c",
+            "position": {
+                "x": 5.608085161059998,
+                "y": 5.608085161059998
+            },
+            "type": "CMS_SIMPLE_TEXT_INPUT"
+        },
+        {
+            "attributes": {
+                "id": "b0680f4a-4499-4002-a9e4-7228bdd0583a",
+                "localId": "",
+                "name": "fieldGroup",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "6901dfab-89ba-4ed7-8d6f-1003fc9b087a",
+            "position": {
+                "x": -1.7881430169818129,
+                "y": -1.7881430169818129
+            },
+            "type": "CMS_GROUP"
+        },
+        {
+            "attributes": {
+                "id": "dee27424-910e-4787-852b-dcc9b0ad909f",
+                "localId": "config-slot_summary5ae45390-81ff-3e38-ad99-56945118c356",
+                "name": "Summary",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "7bbd233e-582f-4d0e-b522-e8abbe5befdd",
+            "position": {
+                "x": -2.8518725742673947,
+                "y": -2.8518725742673947
+            },
+            "type": "CMS_TEXT_AREA_INPUT"
+        },
+        {
+            "attributes": {
+                "id": "34fbfd2a-b686-486e-80b0-fc48d3deca3f",
+                "localId": "config-slot_readd36d6724-f8ef-36f4-b3b8-fb799f3490da",
+                "name": "Read",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "72f39e8f-1094-4cd9-8433-4f5ed37a59de",
+            "position": {
+                "x": -3.2455280945227987,
+                "y": -3.2455280945227987
+            },
+            "type": "CMS_BOOLEAN_INPUT"
+        },
+        {
+            "attributes": {
+                "id": "2a730a95-0871-4a51-aa73-e018a322e3b9",
+                "localId": "config-slot_author1ee7df3ce-dd8a-31fe-8002-31a0dee7784d",
+                "name": "author1",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "2b7e2a78-1b52-4f33-b59a-3e4f7128627c",
+            "position": {
+                "x": -1.920303929509856,
+                "y": -1.920303929509856
+            },
+            "type": "CMS_REFERENCE_DIALOG_INPUT"
+        },
+        {
+            "attributes": {
+                "id": "2f5f70a6-4ad9-4913-a681-d29904b8463b",
+                "localId": "config-slot_author1_value-help-slot47d54b78-cf5b-323b-be86-566bc71119d3",
+                "name": "Value-Help",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "be4e393c-57fa-44a6-a27c-dcc8fec9f849",
+            "position": {
+                "x": -3.133012163081761,
+                "y": -3.133012163081761
+            },
+            "type": "CMS_REFERENCE_VALUE_HELP"
+        },
+        {
+            "attributes": {
+                "id": "00d06ced-1526-41f5-87ba-6a42209e1146",
+                "localId": "config-slot_author1_value-help-tableea2bd2a5-2972-3933-9c4e-be58467a09c7",
+                "name": "aCMS Reference Value Help Table",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "c4ad41fd-4e12-4cf6-9b3a-844cacb267b5",
+            "position": {
+                "x": -4.287748456889656,
+                "y": -4.287748456889656
+            },
+            "type": "CMS_REFERENCE_VALUE_HELP_TABLE"
+        },
+        {
+            "attributes": {
+                "id": "c2e1d6c3-ea56-4afe-aa9e-dc4a8c9ed988",
+                "localId": "config-slot_author1_reference-tile-template-slot106e8eb3-3307-3ce5-90cb-cf277a04455c",
+                "name": "Selected Entry Template",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "a6adb5a7-2b8a-4232-823c-ef1f323e90b8",
+            "position": {
+                "x": -3.7479366589464083,
+                "y": -3.7479366589464083
+            },
+            "type": "CMS_REFERENCE_TILE_TEMPLATE_SLOT"
+        },
+        {
+            "attributes": {
+                "id": "7e0aeb83-1dfc-417f-805a-9ccce2c4a6c9",
+                "localId": "config-slot_author1_reference-tile-template9b434ad0-b983-3e40-a4e2-f90b1ec16829",
+                "name": "aCMS Entry Selection Card",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "7a1a8da4-7748-45fe-ab5a-3ca77ed9c7ed",
+            "position": {
+                "x": -5.559794958076865,
+                "y": -5.559794958076865
+            },
+            "type": "CMS_REFERENCE_TILE_TEMPLATE"
+        },
+        {
+            "attributes": {
+                "id": "e5ae5f17-b46f-438f-840a-61b4d1370fd7",
+                "localId": "config-slot_author1_area-grid9c02b5c1-6ff3-3c1e-81ee-15915b49dcdf",
+                "name": "Area Grid",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "929f48e6-2825-4aea-9598-8657ba351693",
+            "position": {
+                "x": -7.301368749826392,
+                "y": -7.301368749826392
+            },
+            "type": "AREA_GRID"
+        },
+        {
+            "attributes": {
+                "id": "c14d7736-6216-49df-beda-b8a552b1d84c",
+                "localId": "config-slot_author1_template-headera491b441-5f2b-3fd1-88fb-c4912a0a7460",
+                "name": "Area Grid",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "1b16e515-4456-4705-a8b3-98d40b41b399",
+            "position": {
+                "x": -6.988351367031462,
+                "y": -6.988351367031462
+            },
+            "type": "AREA_GRID"
+        },
+        {
+            "attributes": {
+                "id": "7df5034e-44cf-403c-b556-70a066c736a9",
+                "localId": "config-slot_author1_entity-namec3a8dc81-770c-3116-8c7c-50c97ec949ed",
+                "name": "Entity Name",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "5e0a8e3f-a007-4973-810b-c6f920be9f5e",
+            "position": {
+                "x": -7.363919960869165,
+                "y": -7.363919960869165
+            },
+            "type": "TEXT"
+        },
+        {
+            "attributes": {
+                "id": "be4d19d9-996d-4007-8fba-954a18a68192",
+                "localId": "config-slot_author1_entity-title4f602814-aa54-3d3c-8e71-a6c0eca7c7a1",
+                "name": "Title",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "e3fedb17-6151-4753-bbf7-7e4ded9fdc1e",
+            "position": {
+                "x": -6.233936455443931,
+                "y": -6.233936455443931
+            },
+            "type": "TEXT"
+        },
+        {
+            "attributes": {
+                "id": "83004dfa-14a9-46e5-8df5-d04c84df0c34",
+                "localId": "config-slot_author1_template-buttons68e965ab-e497-3e1e-be3c-f8bbad710412",
+                "name": "Area Grid",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "613b9cab-c46a-4bbb-ac46-0a043332241e",
+            "position": {
+                "x": -9.637197844229282,
+                "y": -9.637197844229282
+            },
+            "type": "AREA_GRID"
+        },
+        {
+            "attributes": {
+                "id": "1d50c781-40ac-4513-bfbe-fd106fedbb8d",
+                "localId": "config-slot_author1_error-icon7c1593d4-00f6-3289-bffa-151af100f6d8",
+                "name": "Error Icon",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "c2809e48-31a5-4e03-b91c-08f476ac0d21",
+            "position": {
+                "x": -11.059510585544011,
+                "y": -11.059510585544011
+            },
+            "type": "CMS_REFERENCE_TILE_ERROR_ICON"
+        },
+        {
+            "attributes": {
+                "id": "4076a370-acae-4b5f-b591-b14c5b7e3404",
+                "localId": "config-slot_author1_button-openb40605c1-87dd-3529-a969-a74eb68835b6",
+                "name": "Open Button",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "4dc78c76-50cb-4290-b02f-99ccd8b28ce2",
+            "position": {
+                "x": -11.337415175069573,
+                "y": -11.337415175069573
+            },
+            "type": "CMS_REFERENCE_TILE_OPEN_BUTTON"
+        },
+        {
+            "attributes": {
+                "id": "0943a1e7-3830-46dd-8b41-da16355f465b",
+                "localId": "config-slot_author1_buttons-delete53d33f18-f4de-3abb-b005-835761b648b5",
+                "name": "Delete Button",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "baf26c53-3da1-4ebe-8122-842516cc7a8c",
+            "position": {
+                "x": -10.096307684132631,
+                "y": -10.096307684132631
+            },
+            "type": "CMS_REFERENCE_TILE_DELETE_BUTTON"
+        },
+        {
+            "attributes": {
+                "id": "fc174d1c-e842-4e31-a464-915d7723e0c1",
+                "localId": "config-slot_testblockfc174d1c-e842-4e31-a464-915d7723e0c1",
+                "name": "testblock",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "df609f00-08a9-4d8a-9200-cc60f5637221",
+            "position": {
+                "x": 3.3535353159691152,
+                "y": 3.3535353159691152
+            },
+            "type": "CMS_BLOCK"
+        },
+        {
+            "attributes": {
+                "id": "7a32e5d8-b53c-48f1-bf13-8870db030b20",
+                "localId": "config-slot_testblock-author276ff724e-2b38-3146-8306-7c521f1874b3",
+                "name": "author2",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "750426a4-f481-45a1-8544-2ca3cba51565",
+            "position": {
+                "x": 6.373435808257303,
+                "y": 6.373435808257303
+            },
+            "type": "CMS_REFERENCE_DIALOG_INPUT"
+        },
+        {
+            "attributes": {
+                "id": "645199d4-74c7-4ed8-9c60-b81f5bc0c690",
+                "localId": "config-slot_testblock-author2_value-help-slotc85b4cc4-aa7e-3bb2-b2f5-6359b874e957",
+                "name": "Value-Help",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "69e9f7a5-8cac-455c-9579-f91f3605a830",
+            "position": {
+                "x": 8.12529877645191,
+                "y": 8.12529877645191
+            },
+            "type": "CMS_REFERENCE_VALUE_HELP"
+        },
+        {
+            "attributes": {
+                "id": "69a3264d-5e90-4e6e-98b4-fb3e78960525",
+                "localId": "config-slot_testblock-author2_value-help-tablefb0b0bba-423c-3314-9fed-b6cc318892d8",
+                "name": "aCMS Reference Value Help Table",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "bd79636a-aa79-450a-a9c3-5672bd922881",
+            "position": {
+                "x": 9.602482111210394,
+                "y": 9.602482111210394
+            },
+            "type": "CMS_REFERENCE_VALUE_HELP_TABLE"
+        },
+        {
+            "attributes": {
+                "id": "8408351a-5931-4107-b93b-5f6a032f53ce",
+                "localId": "config-slot_testblock-author2_reference-tile-template-slotaaa0709e-9e63-3a9b-ab69-b2e446f134b8",
+                "name": "Selected Entry Template",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "7a39cfab-9eb4-4e21-85b1-9acb7dc95129",
+            "position": {
+                "x": 8.843928206409876,
+                "y": 8.843928206409876
+            },
+            "type": "CMS_REFERENCE_TILE_TEMPLATE_SLOT"
+        },
+        {
+            "attributes": {
+                "id": "a482613d-b51b-44bf-b04f-7190011ce4d6",
+                "localId": "config-slot_testblock-author2_reference-tile-template6d77ebe6-2676-39df-a4bc-a810f8dbb1ce",
+                "name": "aCMS Entry Selection Card",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "8e649bfb-4a92-48c0-bb96-fc5bdff54d95",
+            "position": {
+                "x": 11.239995106548477,
+                "y": 11.239995106548477
+            },
+            "type": "CMS_REFERENCE_TILE_TEMPLATE"
+        },
+        {
+            "attributes": {
+                "id": "5b0cdb69-776c-40b2-9c92-1444de62a4fb",
+                "localId": "config-slot_testblock-author2_area-gridd831a6e9-5c9e-3f34-9825-536bbd848509",
+                "name": "Area Grid",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "33d1892b-0939-4634-a13a-0b606e6ae365",
+            "position": {
+                "x": 13.544065780177009,
+                "y": 13.544065780177009
+            },
+            "type": "AREA_GRID"
+        },
+        {
+            "attributes": {
+                "id": "54290555-e315-405a-828c-1f6185c2d20f",
+                "localId": "config-slot_testblock-author2_template-headere390e3c7-aaeb-3212-a9f3-2beb02f1fd41",
+                "name": "Area Grid",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "902fbd53-9faf-40e8-a858-b9e620a9e530",
+            "position": {
+                "x": 16.038336999141595,
+                "y": 16.038336999141595
+            },
+            "type": "AREA_GRID"
+        },
+        {
+            "attributes": {
+                "id": "18428240-6e57-4307-a70f-952c62a5adb2",
+                "localId": "config-slot_testblock-author2_entity-nameaaaca203-400b-35a0-b5cc-2a5da07fd2a2",
+                "name": "Entity Name",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "ba341773-b5f4-4ed6-ac03-2506272b3ced",
+            "position": {
+                "x": 17.781784752092612,
+                "y": 17.781784752092612
+            },
+            "type": "TEXT"
+        },
+        {
+            "attributes": {
+                "id": "2feb2258-ef8f-443d-a07f-b48ea530c60d",
+                "localId": "config-slot_testblock-author2_entity-title1aa5ae8c-aeff-306e-a4d1-7130c93cae91",
+                "name": "Title",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "8466f401-1792-4751-9f38-79d98d0c7f1c",
+            "position": {
+                "x": 17.44802107733746,
+                "y": 17.44802107733746
+            },
+            "type": "TEXT"
+        },
+        {
+            "attributes": {
+                "id": "8c7834ba-c10e-4cdb-bf94-5d513284e5f4",
+                "localId": "config-slot_testblock-author2_template-buttons9ebcf4f2-a854-3ad8-9555-05af1871c06d",
+                "name": "Area Grid",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "b8183d0d-47ee-4881-9621-38b9d06caf01",
+            "position": {
+                "x": 14.299953298541503,
+                "y": 14.299953298541503
+            },
+            "type": "AREA_GRID"
+        },
+        {
+            "attributes": {
+                "id": "e23d8983-14f0-4d9b-bd6a-6d597afb6456",
+                "localId": "config-slot_testblock-author2_error-icon9a90c930-570c-37d9-b979-506bd698b2c5",
+                "name": "Error Icon",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "70c7a65a-ffb2-4e99-9a71-2a47842f249e",
+            "position": {
+                "x": 15.671182804370153,
+                "y": 15.671182804370153
+            },
+            "type": "CMS_REFERENCE_TILE_ERROR_ICON"
+        },
+        {
+            "attributes": {
+                "id": "9e049cb5-5613-4419-9c81-bea6552ecb2b",
+                "localId": "config-slot_testblock-author2_button-open2c53b665-fb4c-3784-b402-0ebbec866f8f",
+                "name": "Open Button",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "23ae2540-92e6-4bd6-9156-d815215f4868",
+            "position": {
+                "x": 13.771671977286132,
+                "y": 13.771671977286132
+            },
+            "type": "CMS_REFERENCE_TILE_OPEN_BUTTON"
+        },
+        {
+            "attributes": {
+                "id": "5e12d047-9f83-471a-a624-f67f15355b1d",
+                "localId": "config-slot_testblock-author2_buttons-delete94d5f38a-bc9a-3ccf-bf8c-61fd59027cd3",
+                "name": "Delete Button",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "c1a853b1-3308-4ab1-b80d-624b058462c9",
+            "position": {
+                "x": 14.849518838339804,
+                "y": 14.849518838339804
+            },
+            "type": "CMS_REFERENCE_TILE_DELETE_BUTTON"
+        },
+        {
+            "attributes": {
+                "id": "b39598b3-d8cc-4864-b6e2-619862e13a73",
+                "localId": "config-slot_uuidf9db59ca-2047-3382-b442-6ef5d7be0acc",
+                "name": "UUID",
+                "namespace": "NUCLEUS_NEXT"
+            },
+            "id": "6807ef87-4ca7-43c0-82be-5d6313f83734",
+            "position": {
+                "x": 1.628711239223048,
+                "y": 1.628711239223048
+            },
+            "type": "CMS_UNIQUE_IDENTIFIER_INPUT"
+        }
+    ],
+    "path_definitions": []
+}
