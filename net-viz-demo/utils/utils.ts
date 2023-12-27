@@ -1,14 +1,15 @@
 export function getNodes(config: any){
     const nodes = config["nodes"].map((jsonNode) => {
         return {
-            id: jsonNode.id, 
+            id: jsonNode.id,
+            type: 'ScreenComponent', 
             data: {
                 type: jsonNode.type,
                 ...jsonNode.attributes
             },
             position:  {
-                x: jsonNode.position.x,
-                y: jsonNode.position.y 
+                x: jsonNode.position.x * 50,
+                y: jsonNode.position.y * 35 
             }
         }
     })
